@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327770213141",
+    "firebase_url": "https://swasthamaha.firebaseio.com",
+    "project_id": "swasthamaha",
+    "storage_bucket": "swasthamaha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327770213141:android:82f3c1d3c7008ea658b71c",
+        "android_client_info": {
+          "package_name": "com.covid19.swathamaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327770213141-qr4kndruob40gha0fmuajfk6gss018vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.swathamaha",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "327770213141-77ktdneh6fifmlfh02hb1blpr081o5a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQkcHsY14J9F8DSVV3cLq4N80ObtobqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327770213141-77ktdneh6fifmlfh02hb1blpr081o5a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
